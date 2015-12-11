@@ -1,0 +1,17 @@
+body{
+	background-color: #ff8080;
+}
+
+h1{
+	font-size: 30px;
+}
+
+#grey{
+	color: white;
+}
+
+.sheila{
+	border-style: groove; 
+	border-color: black;
+	border-width: medium;
+}
